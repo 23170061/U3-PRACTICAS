@@ -8,7 +8,7 @@
 
 ## Índice de Prácticas
 
-### 1. [PRACTICA 01 - PROCEDIMIENTOS](./PRACTICA%2001%20-%20PROCEDIMIENTOS)
+### [PRACTICA 01 - PROCEDIMIENTOS](./PRACTICA%2001%20-%20PROCEDIMIENTOS)
 * **¿Qué hace el programa?** 
   Es un programa donde implementamos un procedimiento para mostrar un aviso dos veces, reutilizando el procedimiento sin la necesidad de escribir lo mismo dos veces.
 * **¿Qué se comprobó al ejecutarlo?** 
@@ -16,7 +16,7 @@
 
 ---
 
-### 2. [PRACTICA 03 - VALIDACION](./PRACTICA%2003%20-%20VALIDACION)
+### [PRACTICA 03 - VALIDACION](./PRACTICA%2003%20-%20VALIDACION)
 * **¿Qué hace el programa?** 
   Es un programa donde revisamos si los valores guardados en los registros son cero usando test, y en caso de que sí lo sean, saltamos a una etiqueta para determinar que es inválido.
 * **¿Qué se comprobó al ejecutarlo?** 
@@ -24,7 +24,7 @@
 
 ---
 
-### 3. [PRACTICA 04 - MANEJO DE PILA](./PRACTICA%2004%20-%20MANEJO%20DE%20PILA)
+### [PRACTICA 04 - MANEJO DE PILA](./PRACTICA%2004%20-%20MANEJO%20DE%20PILA)
 * **¿Qué hace el programa?** 
   Es un programa donde se guardan dos números en la pila, llamamos un procedimiento para leerlos, multiplicarlos y limpiamos la pila al terminar.
 * **¿Qué se comprobó al ejecutarlo?** 
@@ -32,7 +32,7 @@
 
 ---
 
-### 4. [PRACTICA 05 - MACROS](./PRACTICA%2005%20-%20MACROS)
+### [PRACTICA 05 - MACROS](./PRACTICA%2005%20-%20MACROS)
 * **¿Qué hace el programa?** 
   Es un programa donde implementamos macros para mostrar mensajes en pantalla y también multiplicaciones en consola.
 * **¿Qué se comprobó al ejecutarlo?** 
